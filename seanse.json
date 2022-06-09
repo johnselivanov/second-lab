@@ -1,0 +1,32 @@
+[{
+    "start": "06:00:00",
+    "stop": "09:00:00",
+    "traffic_in": 250,
+    "ip": "127.0.0.1",
+    "traffic_out": 240,
+    "price": 5
+},
+{
+    "start": "09:00:00",
+    "stop": "12:00:00",
+    "traffic_in": 250,
+    "ip": "127.0.0.1",
+    "traffic_out": 230,
+    "price": 5
+},
+{
+    "start": "06:00:00",
+    "stop": "10:00:00",
+    "traffic_in": 250,
+    "ip": "127.0.0.2",
+    "traffic_out": 250,
+    "price": 7
+},
+{
+    "start": "06:00:00",
+    "stop": "12:00:00",
+    "traffic_in": 250,
+    "ip": "127.0.0.3",
+    "traffic_out": 26,
+    "price": 12
+}]
